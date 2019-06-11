@@ -1,6 +1,6 @@
 Package: FOPjars
 Title: FOP JAR Files
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: person("Charles", "Scheid", email = "charleshscheid@gmail.com", role = c("aut", "cre"))
 Description: Provides the JAR files for the Apache Formatting Objects Processor (FOP).
 Depends: R (>= 3.2.2)
